@@ -1,0 +1,231 @@
+body {
+    background-color: #272727;
+    margin: 0px;
+
+}
+.l_menu {
+    background-color:  #1E1E1E;
+    width: 100px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+}
+.r_menu {
+    width: 100px;
+    height: 100%;
+    position: fixed;
+    right: 0px;
+    z-index: 3;
+}
+.val{
+    margin-top: 50px;
+    padding: 3px;
+}
+.burger {
+    background-color: #949494;
+    width: 60px;
+    height: 5px;
+    margin: 15px;
+
+}
+.menu {
+    margin-top: 50px;
+}
+.contact {
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+    background: #272727;
+    box-shadow: -11px 4px 15px -2px rgba(0, 0, 0, 0.25);
+    bottom: 100px;
+    position: fixed;
+}
+.eli {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: fixed;
+}
+.erst {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 20%;
+    margin-left: 142px;
+    position:absolute;
+}
+.github {
+    margin: 15px 15px 0px 15px;
+    padding: 5px;
+    color: #949494;
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    
+}
+.github:hover {
+    color: aqua;
+}
+.gm {
+    margin: 0px 15px 0px 15px;
+    color: #949494;
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+.gm:hover {
+    color: aqua;
+}
+.gm1 {
+    margin: 0px 15px 10px 15px;
+    color: #949494;
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+.gm1:hover {
+    color: aqua;
+}
+.cont {
+    background-color: #272727;
+    width: 263px;
+    height: 60px; 
+    border: 3px solid #2911C3;
+    margin-top: 35%;
+    margin-left: 142px;
+}
+.co {
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 32px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;  
+    background: linear-gradient(180deg, #4129D9 0%, #5F2FD6 52.08%, #9E51EB 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.about {
+    margin-top: 500px;
+    margin-left: 283px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 405px;
+}
+.hm {
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    top: 1150px;
+    right: 450px;
+    position: absolute;
+    color: #949494;
+}
+.hm:hover {
+    color: #E44D26;
+}
+.web {
+    margin-left: 200px;
+}
+.star1 {
+    position: absolute;
+    top: 1252px;
+    right: 425px;
+}
+.cs {
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    top: 1320px;
+    right: 450px;
+    position: absolute;
+    color: #949494;
+}
+.cs:hover {
+    color: #264DE4;
+ }
+ .star2 {
+    position: absolute;
+    top: 1422px;
+    right: 425px;
+ }
+ .de {
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    top: 1494px;
+    right: 436px;
+    position: absolute;
+    color: #949494;
+ }
+ .de:hover {
+    color: #6B2DAA;
+ }
+ .star3 {
+    position: absolute;
+    top: 1596px;
+    right: 425px;
+ }
+ .j_s {
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    top: 1668px;
+    right: 438px;
+    position: absolute;
+    color: #949494;
+ }
+ .j_s:hover {
+    color: #F5DE19;
+ }
+ .star4 {
+    position: absolute;
+    top: 1780px;
+    right: 425px;
+ }
+ .se {
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    top: 1842px;
+    right: 440px;
+    position: absolute;
+    color: #949494;
+ }
+ .se:hover {
+    color: #F41F1F;
+ }
+ .star5 {
+    position: absolute;
+    top: 1944px;
+    right: 425px;
+ }
+ .cvetv {
+    margin-top: 419px; 
+    margin-left: 550px;
+    position: absolute;
+ }
+ .pagef {
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+    position: absolute;
+ }
+ h3 {
+    color: white;
+    margin-bottom: 14px;
+    margin-top: 14px;
+    margin-left: 800px;
+ }
